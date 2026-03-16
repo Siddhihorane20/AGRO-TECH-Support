@@ -1,4 +1,4 @@
-# AGRICULTURE-AND-FARM-MANAGEMENT-SYSTEM
+# AGRO-TECH Support
 
 This project is a SQL-based system designed to help farmers access agricultural data efficiently. It addresses common real-world challenges faced by farmers, including lack of information about crop details, seasonal data, market prices, and subsidies.
 
